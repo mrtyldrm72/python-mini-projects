@@ -2,11 +2,10 @@
 from tkinter import *
 import datetime
 import time
-import winsound
 from threading import *
 
 # Create Object
-root = Tk()
+root = Tk(murat)
 
 # Set geometry
 root.geometry("400x200")
